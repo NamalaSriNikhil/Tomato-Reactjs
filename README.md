@@ -1,8 +1,16 @@
-# React + Vite
+# 🍅 Tomato - A React.js Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tomato is a React.js-based web application . This project demonstrates modern React development practices, component-based architecture, and state management.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for both desktop and mobile users
+- Built with performance and scalability in mind
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **State Management:** React Hooks (useState, useEffect)
+- **Styling:** CSS Modules / Styled-components (replace with your method)
+
+
