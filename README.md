@@ -11,6 +11,6 @@ Tomato is a React.js-based web application . This project demonstrates modern Re
 
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
 - **State Management:** React Hooks (useState, useEffect)
-- **Styling:** CSS Modules / Styled-components (replace with your method)
+- **Styling:** CSS Modules / Styled-components
 
 
